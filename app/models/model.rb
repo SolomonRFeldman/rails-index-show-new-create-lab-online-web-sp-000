@@ -1,1 +1,5 @@
-class Model < 
+class Model < ActiveRecord::Base
+  
+  
+  
+end
