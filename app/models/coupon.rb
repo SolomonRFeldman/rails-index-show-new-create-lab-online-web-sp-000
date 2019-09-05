@@ -1,4 +1,4 @@
-class Model < ActiveRecord::Base
+class Coupon < ActiveRecord::Base
   
   
   
